@@ -1,2 +1,3 @@
 # github-demo
-first git repository
+First git repository...
+By Arnav Pandita
